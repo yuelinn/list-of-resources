@@ -1,3 +1,24 @@
+## Fruit detection and quality estimation
+Sweet peppers, multiple locations
+https://data.researchdatafinder.qut.edu.au/dataset/qut-hia-daf-capsicum-datasets
+
+Grapevines
+L. Zabawa, A. Kicherer, L. Klingbeil, A. Milioto, R. Topfer,
+H. Kuhlmann, and R. Roscher, “Detection of single grapevine berries
+in images using fully convolutional neural networks,” in Proceedings
+of the IEEE Conference on Computer Vision and Pattern Recognition
+Workshops, 2019, pp. 0–0.
+
+sweet peppers (in polytunnel)
+I. Sa, Z. Ge, F. Dayoub, B. Upcroft, T. Perez, and C. McCool,
+“Deepfruits: A fruit detection system using deep neural networks,”
+Sensors, vol. 16, no. 8, p. 1222, 2016.
+
+Cucumbers (wait, cucumber is a fruit?!)
+X. Liu, D. Zhao, W. Jia, W. Ji, C. Ruan, and Y. Sun, “Cucumber fruits
+detection in greenhouses based on instance segmentation,” IEEE Access,
+vol. 7, pp. 139 635–139 642, 2019.
+
 
 ## Pest detection
 ### Image
