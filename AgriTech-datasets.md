@@ -28,3 +28,8 @@ IP102 https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_IP102_A_Large-Sc
 
 ## Event-based vision navigation
 https://ieee-dataport.org/open-access/agri-ebv-autumn
+
+
+## Aerial/ Satellite imagery
+
+https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021
