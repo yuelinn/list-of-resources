@@ -1,3 +1,31 @@
+## Weed detection (Vision)
+
+### Sugar Beets 2016
+https://www.ipb.uni-bonn.de/data/sugarbeets2016/
+Crop-Weed for Semantic Segmentation
+4-channel multi-spectral camera and a RGB-D
+12340 labeled images 
+
+
+### Weed Recognization (2018)
+https://github.com/JaggerWu/weed-recognization
+Multi-resolution Aerial tiles
+weirdly annotated using traditional methods(?)
+
+### A Crop/Weed Field Image Dataset   
+https://github.com/cwfid/dataset
+(only 60 images, annotated)
+paper: https://rd.springer.com/content/pdf/10.1007%2F978-3-319-16220-1_8.pdf   
+
+### V2 Plant Seedlings Dataset (Kaggle)
+https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset
+5,539 images of crop and weed seedlings
+(single plant image classification only, ie no mask)
+
+
+
+
+
 ## Fruit detection and quality estimation
 Sweet peppers, multiple locations
 https://data.researchdatafinder.qut.edu.au/dataset/qut-hia-daf-capsicum-datasets
@@ -34,3 +62,6 @@ https://ieee-dataport.org/open-access/agri-ebv-autumn
 
 https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021
 http://www.global-wheat.com/
+
+## USDA Datasets
+https://data.nal.usda.gov/search/type/dataset
