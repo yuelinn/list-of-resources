@@ -2,7 +2,7 @@
 List of resources for AgriTech & Robotics
 Currently includes:
 + datasets
-+ conference & workshopd
++ conference & workshops
 
 
 Collaborations (forks, pull requests, etc) are extremely welcomed.
