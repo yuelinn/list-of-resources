@@ -23,8 +23,9 @@ FIRA https://www.fira-agtech.com/en/ (Paid)
 
 ## Past
 
-### Nov 2020  
+### 2020  
 DigiCrop https://digicrop.de/
+FIRA Conference and Open day Recordings https://www.youtube.com/channel/UCap3a0Js-ovx1NCtE9aoZjA
 
 ### May 2021
 ICRA 2021 https://www.ieee-icra.org/ (Paid but most Workshops are free)   
