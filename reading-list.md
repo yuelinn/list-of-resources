@@ -26,4 +26,7 @@ NOTE: These are books that I personally would like to read/ have recently read (
 + FAO reports
 
 # Fundamentals of ML
-+ "Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy. Made free at https://probml.github.io/pml-book/book1.html
++ "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville https://www.deeplearningbook.org/
++ "Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy. Available at https://probml.github.io/pml-book/book1.html
++ "The Elements of Statistical Learning" by Hastie, Tibshirani and Friedman. Available at https://web.stanford.edu/%7Ehastie/ElemStatLearn/
++ "Forecasting: Principles and Practice" by Rob J Hyndman and George Athanasopoulos. Available at https://otexts.com/fpp2/
