@@ -1,4 +1,4 @@
-NOTE: These are books that I personally would like to read (NOT a recommendation list).
+NOTE: These are books that I personally would like to read/ have recently read (NOT a recommendation list).
 
 # Books
 ## Food Systems
