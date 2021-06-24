@@ -22,3 +22,6 @@
 ## Food Systems
 + [IPC Technical Manual Version 3.0: Evidence and Standards for Better Food Security and Nutrition Decision](http://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/manual/IPC_Technical_Manual_3_Final.pdf)
 + FAO reports
+
+# Fundamentals of ML
++ "Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy. Made free at https://probml.github.io/pml-book/book1.html
