@@ -27,6 +27,8 @@ NOTE: These are books that I personally would like to read/ have recently read (
 
 # Fundamentals of ML
 + "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville https://www.deeplearningbook.org/
++ "Active Learning: Synthesis Lectures on Artificial Intelligence and Machine Learning" by Burr Settles https://www.morganclaypool.com/doi/abs/10.2200/S00429ED1V01Y201207AIM018
++ "Pattern Recognition and Machine Learning" by Bishop, Christopher 
 + "Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy. Available at https://probml.github.io/pml-book/book1.html
 + "The Elements of Statistical Learning" by Hastie, Tibshirani and Friedman. Available at https://web.stanford.edu/%7Ehastie/ElemStatLearn/
 + "Forecasting: Principles and Practice" by Rob J Hyndman and George Athanasopoulos. Available at https://otexts.com/fpp2/
