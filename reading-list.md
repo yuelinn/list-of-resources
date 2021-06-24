@@ -1,3 +1,5 @@
+NOTE: These are books that I personally would like to read (NOT a recommendation list).
+
 # Books
 ## Food Systems
 + "The End of Food" by Paul Roberts
