@@ -20,3 +20,6 @@ I am no longer actively keeping this document since my interests is not directly
 
 ## Infrared Vision (Object Detection)
 + FLIR https://www.flir.asia/oem/adas/adas-dataset-form/
+
+## Unsupervised/ partially unlabeled
++ Huawei's https://soda-2d.github.io/
