@@ -1,3 +1,7 @@
+## Just leaves
+Indoor top-down (incl leaf instances) labelled RGB images 
+https://www.plant-phenotyping.org/datasets-examples
+
 ## Fruit detection and quality estimation
 Sweet peppers, multiple locations
 https://data.researchdatafinder.qut.edu.au/dataset/qut-hia-daf-capsicum-datasets
