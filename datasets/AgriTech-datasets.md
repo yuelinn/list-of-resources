@@ -1,6 +1,10 @@
+## Semantic Segmentation
+CWFID https://github.com/cwfid/dataset
+
 ## Just leaves
 Indoor top-down (incl leaf instances) labelled RGB images 
-https://www.plant-phenotyping.org/datasets-examples
+https://www.plant-phenotyping.org/datasets-examples   
+https://github.com/cwfid/dataset
 
 ## Fruit detection and quality estimation
 Sweet peppers, multiple locations
@@ -25,6 +29,7 @@ vol. 7, pp. 139 635–139 642, 2019.
 
 Corn Kernel Counting 
 https://registry.opendata.aws/intelinair_corn_kernel_counting/
+more maize http://www.maizegdb.org/cgi-bin/imagebrowser.cgi
 
 ## Pest detection
 ### Image
