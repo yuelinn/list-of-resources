@@ -6,6 +6,10 @@ Indoor top-down (incl leaf instances) labelled RGB images
 https://www.plant-phenotyping.org/datasets-examples   
 https://github.com/cwfid/dataset
 
+## Flowers
+Pl@ntNet-300K: citizen observatory https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/7e7757b1e12abcb736ab9a754ffb617a-Paper-round2.pdf 
+
+
 ## Fruit detection and quality estimation
 Sweet peppers, multiple locations
 https://data.researchdatafinder.qut.edu.au/dataset/qut-hia-daf-capsicum-datasets
