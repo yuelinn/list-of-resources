@@ -12,4 +12,5 @@ Dataset of annotated food crops and weed images for robotic computer vision cont
 
 [CPPP dataset (leaf instance segmentation)](https://www.plant-phenotyping.org/datasets-home)
 
+weed detection dataset, 2017 https://link.springer.com/chapter/10.1007/978-3-319-67597-8_11
 [A Crop/Weed Field Image Dataset for the Evaluation of Computer Vision Based Precision Agriculture Tasks](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/workshops/w23/paper26.pdf)
