@@ -1,6 +1,12 @@
 ## Semantic Segmentation
 CWFID https://github.com/cwfid/dataset
 
+## i heard about it but idk what it actually is
+Sensefly Crop Field (5,260 images)
+DeepWeeds (17,509 images, classification- Olsen 2019)
+Agriculture-Vision (94,986 images, segmentation- Chiu 2020)
+CropHarvest (90,000 images, Tseng 2020)
+
 ## Just leaves
 Indoor top-down (incl leaf instances) labelled RGB images 
 https://www.plant-phenotyping.org/datasets-examples   
