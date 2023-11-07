@@ -1,6 +1,9 @@
 ## Semantic Segmentation
 CWFID https://github.com/cwfid/dataset
 
+## navigation in ag
+multimodal (cameras)  cirtus-farm https://ucr-robotics.github.io/Citrus-Farm-Dataset/calibration.html
+
 ## i heard about it but idk what it actually is
 Sensefly Crop Field (5,260 images)
 DeepWeeds (17,509 images, classification- Olsen 2019)
