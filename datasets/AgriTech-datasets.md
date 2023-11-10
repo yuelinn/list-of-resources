@@ -1,3 +1,4 @@
+
 ## Semantic Segmentation
 CWFID https://github.com/cwfid/dataset
 
@@ -17,7 +18,7 @@ https://github.com/cwfid/dataset
 
 ## Flowers
 Pl@ntNet-300K: citizen observatory https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/7e7757b1e12abcb736ab9a754ffb617a-Paper-round2.pdf 
-
+Oxford flowers 102 image classes https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
 ## Fruit detection and quality estimation
 Sweet peppers, multiple locations
